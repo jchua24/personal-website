@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Joshua Chua",
+    "occupation":"Software Engineer",
+    "description":"Currently a third year student at the University of Toronto, I am looking for ways to develop impactful software and incite meaningful change.",
+    "image":"profilepic.jpg",
+    "bio":"Hi there! I made this website for you to get to know me better, so feel free to browse my previous work experience and projects. One thing I will say is that I am someone who is always looking for opportunities to create new things - whether that be in software, business ideas or even photography!",
+    "contactmessage":"Want to get in contact with me? Shoot me a message below!",
+    "email": "joshuagodwin.chua@mail.utoronto.ca",
+    "phone": "647-687-1389",
+    "address":{
+      "street":"7-18 Clark Avenue West",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "L4J 8H1"
+    },
+    "website": "http://www.joshuachua.me",
+    "resumedownload":"https://drive.google.com/file/d/1bz1CvLu_od9VXTmZbOe8tqd66lAggTxz/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/joshua.chua22/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshua-c/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/thejoshuachua",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jchua24",
+        "className":"fa fa-github"
+      }, 
+      {
+        "name":"spotify",
+        "url":"https://open.spotify.com/user/12161105793?si=NFGxg4_AQKS04YUBaatRyw",
+        "className":"fa fa-spotify"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"As someone who enjoys working on projects with others, I recognize the importance of having both technical ability and interpersonal skills. Below is a summary of a few key skills that make me suitable to contribute on any team: ",
+    "education":[
+      {
+        "school":"University of Toronto",
+        "degree":"Computer Science Specialist & Statistics Minor",
+        "graduated":"September 2018 - Present",
+        "description":"As a student at the University of Toronto, I am very fortunate to be studying something that I am passionate about. Through my first few years, I have taken courses such as: \n Introduction to Computer Science (Python) \n Mathematical Expression and Reasoning for CS Software Design (Java) \n Software Tools and Systems Programming (C) \n Theory of Computation, Data Structures and Analysis \n Computer Organization (Circuit Design / Verilog) \n Statistical Reasoning and Data Science."
+      },
+      {
+        "school":"Thornhill Secondary School",
+        "degree":"Life",
+        "graduated":"September 2014 - June 2018",
+        "description":"Go Hawks!"
+      }
+    ],
+    "work":[
+      {
+        "company":"Teranet",
+        "title":"Software Engineer Intern",
+        "years":"May 2020 - Present",
+        "description":"In progress... check back later to see how this went!"
+      },
+      {
+        "company":"Medsoft Group Inc.",
+        "title":"Mobile Software Developer",
+        "years":"April 2020 - Present",
+        "description":"Spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their medications. Leveraging the cross-platform functionality of Nativescript, I implemented various RESTful API's and an intuitive user interface to product a prototype that will be presented to doctors."
+      }, 
+      {
+        "company":"University of Toronto - Daniels Faculty of Architecture ",
+        "title":"Research Assistant (Mobile Dev)",
+        "years":"April 2020 - Present",
+        "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I worked on the development of Flux.Land - a geospatial platform that will be used to assess risk factors and data trends in Broward County. One of my key contributions has been increasing the efficiency of backend asset retrieval through ExpressJS!"
+      }, 
+      {
+        "company":"Teranet",
+        "title":"Software Engineer Intern",
+        "years":"May 2019 - August 2019",
+        "description":"Full-stack development in an Agile Scrum environment, using a wide range of technologies such as AngularJS, Java Spring JPA, SQL, and HTML/CSS/LESS. Worked in tandem with product owners to improve key functionalities that are used by 50,000+ users."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA / Python / JS",
+        "level":"92%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Docker / Jenkins",
+        "level":"60%"
+      },
+      {
+        "name":"CSS / Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Communication",
+        "level":"95%"
+      },
+      {
+        "name":"Leadership",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"B2Z - Boomer2Zoomer",
+        "category":"A platform to connect the younger generations with great mentors!",
+        "image":"b2z.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Dose",
+        "category":"An app to help patients correctly log their medication usage.",
+        "image":"dose.png",
+        "url":"https://github.com/jchua24/dose"
+      },
+      {
+        "title":"Fluxland",
+        "category":"Innovative geo-spatial platform to address the risk factors of Broward County.",
+        "image":"fluxland.png",
+        "url":"https://broward.flux.land"
+      },
+      {
+        "title":"ATM Machine",
+        "category":"Need more cash? This Java program has you covered.",
+        "image":"atm.jpg",
+        "url":"https://github.com/jchua24/ATM-Machine"
+      },
+      {
+        "title":"Autocompleter Engine",
+        "category":"Because what else would data structures and python be used for?",
+        "image":"autocompleter.png",
+        "url":"https://github.com/jchua24/AutocompleterEngine"
+      },
+      {
+        "title":"Announcements App",
+        "category":"A mobile solution to a school's unsatisfactory PA system.",
+        "image":"announcements.png",
+        "url":"https://play.google.com/store/apps/details?id=ca.tssappclub.tssannouncements&hl=en_CA"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
