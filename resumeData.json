@@ -71,9 +71,9 @@
         "company":"Medsoft Group Inc.",
         "title":"Mobile Software Developer",
         "years":"April 2020 - Present",
-        "description":"Spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their medications. Leveraging the cross-platform functionality of Nativescript, I implemented various RESTful API's and an intuitive user interface to produce a prototype that will be presented to doctors."
+        "description":"Spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their medications. Leveraging the cross-platform functionality of Nativescript, I implemented various RESTful APIs and an intuitive user interface to produce a prototype that will be presented to doctors."
       }, 
-      {
+      { 
         "company":"University of Toronto - Daniels Faculty of Architecture ",
         "title":"Research Assistant (Mobile Dev)",
         "years":"April 2020 - Present",
@@ -140,6 +140,12 @@
         "category":"Innovative geo-spatial platform to address the risk factors of Broward County.",
         "image":"fluxland.png",
         "url":"https://broward.flux.land"
+      }, 
+      {
+        "title":"Geowarehouse",
+        "category": "Used by real estate boards across Ontario. This is what I've worked on during my internships!",
+        "image":"teranet.jpeg",
+        "url":"https://www2.geowarehouse.ca/"
       },
       {
         "title":"ATM Machine",
