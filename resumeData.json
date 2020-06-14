@@ -51,7 +51,7 @@
         "school":"University of Toronto",
         "degree":"Computer Science Specialist & Statistics Minor",
         "graduated":"September 2018 - Present",
-        "description":"As a student at the University of Toronto, I am very fortunate to be studying something that I am passionate about. Through my first few years, I have taken courses such as: ntroduction to Computer Science (Python), Mathematical Expression and Reasoning for CS Software Design (Java), Software Tools and Systems Programming (C), Theory of Computation, Data Structures and Analysis, Computer Organization (Circuit Design / Verilog) and Statistical Reasoning and Data Science. There's a lot to learn!"
+        "description":"As a student at the University of Toronto, I am very fortunate to be studying something that I am passionate about. Through my first few years, I have taken courses such as: Introduction to Computer Science (Python), Mathematical Expression and Reasoning for CS Software Design (Java), Software Tools and Systems Programming (C), Theory of Computation, Data Structures and Analysis, Computer Organization (Circuit Design / Verilog) and Statistical Reasoning and Data Science. There's a lot to learn!"
       },
       {
         "school":"Thornhill Secondary School",
@@ -160,7 +160,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Josh is wonderful to work with and has exceptional expertise in leadership, organization and motivation. He consistently demonstrated a solid work ethic at (insert company here) plus a dedication to success. Josh is dedicated, methodical and extremely capable. He is not only reliable but also forward thinking and an inspiring team player. ",
+        "text":"Josh is wonderful to work with and has exceptional expertise in leadership, organization and motivation. He consistently demonstrated a solid work ethic at Teranet plus a dedication to success. Josh is dedicated, methodical and extremely capable. He is not only reliable but also forward thinking and an inspiring team player. ",
         "user":"- Daniel Wong"
       },
       {
