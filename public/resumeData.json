@@ -57,7 +57,7 @@
         "school":"Thornhill Secondary School",
         "degree":"Life",
         "graduated":"September 2014 - June 2018",
-        "description":"Go Hawks!"
+        "description":"95% senior year average. Go Hawks!"
       }
     ],
     "work":[
@@ -102,10 +102,14 @@
       {
         "name":"CSS / Bootstrap",
         "level":"90%"
-      },
+      }, 
       {
         "name":"SQL",
         "level":"80%"
+      },
+      {
+        "name":"Agile Scrum",
+        "level":"95%"
       },
       {
         "name":"Communication",
