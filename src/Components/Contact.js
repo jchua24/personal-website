@@ -89,7 +89,7 @@ class Contact extends Component {
 
                <div className="widget widget_tweets">
                   <h4 className="widget-title">Support My Photography</h4>
-                  <p className="address">One of the things I love to do in my free time is take pictures - there are so many beautiful places to see! If you want to see what I have taken recently, take a look at <a href="https://instagram.com/justgetcreative">my muse.</a></p>
+                  <p className="address">One of the things I love to do in my free time is take pictures - there are so many beautiful places to see! If you want to see what I have taken recently, take a look at <a href="https://instagram.com/justgetcreative" target="_blank">my muse.</a></p>
 		         </div>
             </aside>
       </div>
