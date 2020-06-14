@@ -57,7 +57,7 @@
         "school":"Thornhill Secondary School",
         "degree":"Life",
         "graduated":"September 2014 - June 2018",
-        "description":"Go Hawks!"
+        "description":"95% senior year average. Go Hawks!"
       }
     ],
     "work":[
@@ -65,7 +65,7 @@
         "company":"Teranet",
         "title":"Software Engineer Intern",
         "years":"May 2020 - Present",
-        "description":"In progress... check back later to see how this went!"
+        "description":"In progress..."
       },
       {
         "company":"Medsoft Group Inc.",
@@ -102,10 +102,14 @@
       {
         "name":"CSS / Bootstrap",
         "level":"90%"
-      },
+      }, 
       {
         "name":"SQL",
         "level":"80%"
+      },
+      {
+        "name":"Agile Scrum",
+        "level":"95%"
       },
       {
         "name":"Communication",
