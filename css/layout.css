@@ -645,7 +645,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials-bg.jpeg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -663,7 +663,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #fff;
+   color: black;
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
@@ -675,7 +675,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: black;
 }
 
 /*	Blockquotes */
@@ -683,22 +683,22 @@ call-to-action .button {
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+   text-shadow: 0px 0px 1px rgba(0, 0, 0, 1);
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'opensans-semibold', sans-serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #fff
+   color: black; 
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: #fff;
+   color: black;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
