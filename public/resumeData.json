@@ -170,12 +170,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Joshua has been working as a co-op developer in my team, I really enjoyed working with him. He was a fast learner and demonstrated responsibilities for his tasks.  Everyone in the team liked working with Joshua and he earned trust from the team members in a short time.",
-        "user":"- Sean Yun, Teranet QA"
-      },
-      {
         "text":"Joshua is a professional and reliable front end developer. He handles his assignments promptly, and delivers them with efficiency. He is an amazing team member, and can be trusted to work independently as well. He has proven to be extremely resourceful and innovative with technical issues, and it’s clear that he is well versed in various front end development frameworks. Joshua maintains high standards for his work and can be observed to be striving for excellence in each of his endeavours. Joshua will be a great asset for any team he joins.",
-        "user":"- Isaac Seah, Flux.Land"
+        "user":"Isaac Seah, Flux.Land"
+      }, 
+      {
+        "text":"Joshua has been working as a co-op developer in my team, and I really enjoyed working with him. He was a fast learner and demonstrated strong responsibilities with his tasks.  Everyone in the team liked working with Joshua and he earned trust from his team members in a short time.",
+        "user":"Sean Yun, Teranet QA"
       }
     ]
   }
