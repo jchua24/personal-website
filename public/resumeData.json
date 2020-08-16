@@ -62,10 +62,16 @@
     ],
     "work":[
       {
+        "company":"BMO Financial Group",
+        "title":"Software Developer Intern",
+        "years":"September 2020",
+        "description":""
+      },
+      {
         "company":"Teranet",
         "title":"Software Engineer Intern",
-        "years":"May 2020 - Present",
-        "description":"In progress..."
+        "years":"May 2020 - August 2020",
+        "description":"Throughout my second term at Teranet, I developed various web services to increase data output and user security. I also led the UI mobile optimization effort, improving user experience on phone screens and tablets. As well, I designed two new Property Insights reports through JasperReports, and integrated them with our Java Spring backend."
       },
       {
         "company":"Medsoft Group Inc.",
@@ -83,7 +89,7 @@
         "company":"Teranet",
         "title":"Software Engineer Intern",
         "years":"May 2019 - August 2019",
-        "description":"Full-stack development in an Agile Scrum environment, using a wide range of technologies such as AngularJS, Java Spring JPA, SQL, and HTML/CSS/LESS. Worked in tandem with product owners to improve key functionalities that are used by 50,000+ users."
+        "description":"Full-stack development in an Agile Scrum environment, using a wide range of technologies such as AngularJS, Java Spring JPA, SQL, and HTML/CSS/LESS. Worked in tandem with product owners to improve key functionalities that are used by 85,000+ users."
       }
     ],
     "skills":[
@@ -126,8 +132,8 @@
       {
         "title":"B2Z - Boomer2Zoomer",
         "category":"A platform to connect the younger generations with great mentors!",
-        "image":"b2z.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"b2z.png",
+        "url":"https://youtu.be/xArKLByn1p4"
       },
       {
         "title":"Dose",
