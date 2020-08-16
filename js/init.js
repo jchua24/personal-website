@@ -145,35 +145,50 @@
       var contactEmail = $('#contactForm #contactEmail').val();
       var contactSubject = $('#contactForm #contactSubject').val();
       var contactMessage = $('#contactForm #contactMessage').val();
+      
+      var validEmail = true; 
 
-      var data = 'contactName=' + contactName + '&contactEmail=' + contactEmail +
-               '&contactSubject=' + contactSubject + '&contactMessage=' + contactMessage;
+      if(contactName == "") {
+         alert("Please enter a valid name! :)");
+         validEmail = false;
+      } else if (contactEmail == "" || !contactEmail.match(/^[^\s@]+@[^\s@]+\.[^\s@]+$/)) {
+         alert("Please enter a valid email! :)");
+         validEmail = false;
+      } else if (contactMessage == "") {
+         alert("Don't send an empty message! :)");
+         validEmail = false;
+      } 
 
-      $.ajax({
-
-	      type: "POST",
-	      url: "inc/sendEmail.php",
-	      data: data,
-	      success: function(msg) {
-
-            // Message was sent
-            if (msg == 'OK') {
+      if(validEmail) {
+         var template_params = {
+            "senderEmail": contactEmail,
+            "senderName": contactName,
+            "emailSubject": contactSubject,
+            "emailContent": contactMessage
+         }
+         
+         var service_id = "gmail";
+         var template_id = "template_3MZLc5F8";
+         window.emailjs.send(service_id, template_id, template_params)
+            .then(res => {
                $('#image-loader').fadeOut();
                $('#message-warning').hide();
                $('#contactForm').fadeOut();
                $('#message-success').fadeIn();   
-            }
-            // There was an error
-            else {
+            })
+            // Handle errors here however you like, or use a React error boundary
+            .catch(err => {
+               console.error('Failed to send message.')
                $('#image-loader').fadeOut();
-               $('#message-warning').html(msg);
-	            $('#message-warning').fadeIn();
-            }
+               $('#message-warning').html(err);
+               $('#message-warning').fadeIn();
+            } 
+         ); 
+      } else {
+         $('#image-loader').fadeOut();
+      }
 
-	      }
-
-      });
-      return false;
+     return false;
    });
 
 
