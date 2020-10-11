@@ -74,16 +74,16 @@ class Contact extends Component {
 				   </div>
            </div>
 
-
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
 					   <h4>Contact Info</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
+                     {city}, {state} <br />
+                     {phone} <br />
+						   {email} <br />
+						     
 					   </p>
 				   </div>
 

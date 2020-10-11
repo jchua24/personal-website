@@ -4,18 +4,18 @@
     "occupation":"Software Engineer",
     "description":"Currently a third year student at the University of Toronto, I am looking for ways to develop impactful software and incite meaningful change.",
     "image":"profilepic.jpg",
-    "bio":"Hi there! I made this website for you to get to know me better, so feel free to browse my previous work experience and projects. One thing I will say is that I am someone who is always looking for opportunities to create new things - whether that be in software, business ideas or even photography!",
+    "bio":"Hey there! I made this website for you to get to know me better, so feel free to browse my work experiences and projects. One thing I will say is that I am someone who is always looking for opportunities to create new things - whether that be in software, business or even photography!",
     "contactmessage":"Want to get in contact with me? Shoot me a message below!",
     "email": "joshuagodwin.chua@mail.utoronto.ca",
     "phone": "647-687-1389",
     "address":{
-      "street":"7-18 Clark Avenue West",
+      "street":"",
       "city":"Toronto",
       "state":"Ontario",
-      "zip": "L4J 8H1"
+      "zip": ""
     },
     "website": "http://www.joshuachua.me",
-    "resumedownload":"https://drive.google.com/file/d/1bz1CvLu_od9VXTmZbOe8tqd66lAggTxz/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/14s5wlhg-ktR59MDqDDka7Dc4hmGJ6qJP/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -51,20 +51,15 @@
         "school":"University of Toronto",
         "degree":"Computer Science Specialist & Statistics Minor",
         "graduated":"September 2018 - Present",
-        "description":"As a student at the University of Toronto, I am very fortunate to be studying something that I am passionate about. Through my first few years, I have taken courses such as: Introduction to Computer Science (Python), Mathematical Expression and Reasoning for CS Software Design (Java), Software Tools and Systems Programming (C), Theory of Computation, Data Structures and Analysis, Computer Organization (Circuit Design / Verilog) and Statistical Reasoning and Data Science. There's a lot to learn!"
-      },
-      {
-        "school":"Thornhill Secondary School",
-        "degree":"Life",
-        "graduated":"September 2014 - June 2018",
-        "description":"95% senior year average. Go Hawks!"
+        "description":"As a student at the University of Toronto, I am very fortunate to be studying something that I am passionate about. Through my first few years, I have taken courses such as: Data Structures and Analysis, Algorithm Design, Intro to Software Engineering, Software Design (Java), Software Tools and Systems Programming (C), Statistical Reasoning and Data Science, Theory of Computation, Mathematical Expression and Reasoning for CS.", 
+        "extracurriculars": "In addition to my academics, I have taken various leadership roles on campus and enjoy the opportunities to collaborate with others, whether it be as a UofT Department of Computer Science Ambassador or UofTHacks Logistic Executive. I also enjoy connecting with others in the form of mentorship, and get the opportunity to do so as an an E-Mentor for incoming Woodsworth College students."
       }
     ],
     "work":[
       {
         "company":"BMO Financial Group",
         "title":"Software Developer Intern",
-        "years":"September 2020",
+        "years":"September 2020 - Present",
         "description":""
       },
       {
