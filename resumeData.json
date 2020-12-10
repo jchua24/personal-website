@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.joshuachua.me",
-    "resumedownload":"https://drive.google.com/file/d/1DDJdyd1yt5915cWZIADzwZE6pnkk7gyJ/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1aicqVHaY8XvawzORT9kuvhu8MCC4P1Ij/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -55,7 +55,7 @@
         "company":"BMO Financial Group",
         "title":"Software Engineer Intern",
         "years":"September 2020 - Present",
-        "description":""
+        "description":"At my current position with BMO, I recently started working on a project to migrate an on-premise system to AWS! Before that, I worked predominantly with automation, and developed a suite of end-to-end solutions to track BMO server vulnerabilities and login metrics more efficiently."
       },
       {
         "company":"Teranet",
@@ -67,19 +67,19 @@
         "company":"Medsoft Group",
         "title":"Mobile Software Developer",
         "years":"April 2020 - Present",
-        "description":"At my time with Medsoft group, I spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their prescription medications. Leveraging the cross-platform functionality of Nativescript, I created an intuitive UI and integrated the app with Azure RESTful APIs for user authentication, data retrieval and persistence. Overall, it was a really interesting experience to see how products are bootstrapped from the ground up, with the hopes that one day this could be presented to doctors and those in the medical industry."
+        "description":"At my time with Medsoft group, I spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their prescription medications. Leveraging the cross-platform functionality of Nativescript, I created an intuitive UI and integrated the app with Azure RESTful APIs for user authentication, data retrieval and persistence. Overall, it was a really interesting experience to see how products are bootstrapped from the ground up, with the hopes that one day this could be presented to doctors and those in the medical industry!"
       }, 
       { 
         "company":"University of Toronto - Daniels Faculty of Architecture ",
         "title":"Software Developer (Research Assistant)",
         "years":"April 2020 - Present",
-        "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I contributed to the development of Flux.Land - a geospatial platform that is being used to assess risk factors and data trends throughout Broward County, Floward. \n\n One of my key contributions was redesigning the graduate research showcase page and integrating it with Mapbox tilesets that I created using Mapbox’s Javascript framework. Additionally, I reduced the amount of time required to load the platform by implementing Express.js endpoints to more efficiently serve assets."
+        "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I contributed to the development of Flux.Land - a geospatial platform that is being used to assess risk factors and data trends throughout Broward County, Floward. One of my key contributions was redesigning the graduate research showcase page and integrating it with Mapbox tilesets that I created using Mapbox’s Javascript framework. Additionally, I reduced the amount of time required to load the platform by implementing Express.js endpoints to more efficiently serve assets. It was a great experience to develop software and work with faculty in the university!"
       }, 
       {
         "company":"Teranet",
         "title":"Software Engineer Intern",
         "years":"May 2019 - August 2019",
-        "description": "In my first software engineering internship, I got the opportunity to participate in an agile scrum development where I did full-stack development using a wide range of technologies such as AngularJS, Java Spring, SQL, Maven, Docker, and Jenkins. \n\n Throughout the term, I developed two new Automated Valuation Model reports that are now available to purchase in the Geowarehouse e-store for 85,000+ users! Additionally, I worked on optimizing the UI of client-facing property pages and expanded the data output of various web services."
+        "description": "In my first software engineering internship, I got the opportunity to participate in an agile scrum development where I did full-stack development using a wide range of technologies such as AngularJS, Java Spring, SQL, Maven, Docker, and Jenkins. Throughout the term, I developed two new Automated Valuation Model reports that are now available to purchase in the Geowarehouse e-store for 85,000+ users! Additionally, I worked on optimizing the UI of client-facing property pages and expanded the data output of various web services."
       }
     ],
     "skills":[
@@ -92,7 +92,7 @@
         "level":"80%"
       },
       {
-        "name":"SQL (MySQL) and NoSQL (MongoDB, DynamoDB)",
+        "name":"Databases - (MySQL, MongoDB, DynamoDB)",
         "level":"75%"
       },
       {
