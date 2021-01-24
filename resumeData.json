@@ -137,18 +137,6 @@
         "url":"https://broward.flux.land"
       }, 
       {
-        "title":"ATM Machine",
-        "category":"Need more cash? This Java program has you covered.",
-        "image":"atm.jpg",
-        "url":"https://github.com/jchua24/ATM-Machine"
-      },
-      {
-        "title":"Autocompleter Engine",
-        "category":"Because what else would data structures and python be used for?",
-        "image":"autocompleter.png",
-        "url":"https://github.com/jchua24/AutocompleterEngine"
-      },
-      {
         "title":"Announcements App",
         "category":"A mobile solution to a school's unsatisfactory PA system.",
         "image":"announcements.png",
