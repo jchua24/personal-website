@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.joshuachua.me",
-    "resumedownload":"https://drive.google.com/file/d/1Cx8A0JXIwnFMX-oTHW-sdK4f0rZhlnZI/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1-B4a1ZVPdHtg2huNaydAlcix6F9vvbYJ/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -111,6 +111,13 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title": "Appetite", 
+        "category": "Tinder-style mobile app that helps people decide where to eat.", 
+        "image": "appetite.png", 
+        "url": "https://play.google.com/store/apps/details?id=com.parkjs.appetite&hl=en_CA&gl=US"
+
+      },
       {
         "title":"B2Z - Boomer2Zoomer",
         "category":"A platform to connect the younger generations with great mentors!",
