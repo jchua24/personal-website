@@ -2,9 +2,9 @@
   "main": {
     "name":"Joshua Chua",
     "occupation":"Software Engineer",
-    "description":"Currently a third year student at the University of Toronto, I am looking for ways to develop impactful software and incite meaningful change.",
-    "image":"profilepic.jpg",
-    "bio":"Hey there! I made this website for you to get to know me better, so feel free to browse my work experiences and projects. If you would like discuss about anything you see on this page, my contact details are listed below - I'd love to connect!",
+    "description":"As a third year student at the University of Toronto, I am looking for ways to develop impactful software and power the next generation through technology.",
+    "image":"profilepic-new.jpg",
+    "bio":"I made this website for you to get to know me better, so feel free to browse my work experiences and projects. If you would like discuss about anything you see on this page, my contact details are listed below - I'd love to connect!",
     "contactmessage": "Want to get in contact with me? Shoot me a message below!",
     "email": "joshuagodwin.chua@mail.utoronto.ca",
     "phone": "647-687-1389", 
@@ -46,34 +46,40 @@
         "school":"University of Toronto",
         "degree":"Bachelor of Science, Computer Science",
         "graduated":"September 2018 - Present",
-        "description":" Through my first few years, I have taken courses such as: Data Structures and Analysis, Algorithm Design, Software Engineering, Operating Systems, Theory of Computation, and Data Science. Some of my favourite memories from undergrad so far have come from group projects, where I've gotten the chance to build new and interesting web apps, mobile apps, and design prototypes!", 
-        "extracurriculars": "In addition to my academics, I have taken various leadership roles on campus and enjoy the opportunities to collaborate with others. Whether it be as a UofT Department of Computer Science Ambassador or UofTHacks Logistic Executive, working with others in the student community is always a rewarding experience! I also enjoy connecting with others in the form of mentorship, and have gotten a chance to do so as an E-Mentor for incoming Woodsworth College students."
+        "description":" Through my first few years, I have taken courses such as Data Structures and Analysis, Algorithm Design, Software Engineering, Operating Systems, Theory of Computation, and Data Science. Some of my favourite memories from undergrad so far have come from group projects, where I've gotten the chance to build new and interesting web apps, mobile apps, and design prototypes!", 
+        "extracurriculars": "In addition to my academics, I have taken various leadership roles on campus and enjoy the opportunities to collaborate with others. Whether it be as a UofT Department of Computer Science Ambassador or UofTHacks organizer, working with others in the student community is always a rewarding experience! I also enjoy connecting with others in the form of mentorship, and have gotten a chance to do so as an E-Mentor for incoming Woodsworth College students."
       }
     ],
     "work":[
       {
+        "company":"Pagerduty",
+        "title":"Software Engineer Intern",
+        "years":"May 2021 - Present",
+        "description":"More details coming soon."
+      },
+      {
         "company":"BMO Financial Group",
         "title":"Software Engineer Intern",
-        "years":"September 2020 - Present",
-        "description":"At my current position with BMO, I recently started working on a project to migrate an on-premise system to AWS! Before that, I worked predominantly with automation, and developed a suite of end-to-end solutions to track BMO server vulnerabilities and login metrics more efficiently."
+        "years":"September 2020 - April 2021",
+        "description":"At the Bank of Montreal, I had the opportunity to work on two different teams: Operational Excellence and Home Financing Cloud. In Operational Excellence, I leveraged my skills in Python to develop a suite of automation scripts to increase efficiency in tracking BMO server vulnerabilities and login metrics. This greatly reduced the amount of manual effort/activities required by the team, allowing them to focus on more urgent business tasks. As for Home Financing Cloud, I had the opportunity to work in AWS (CodePipeline, DynamoDB, Lambdas, Cloudwatch) to migrate an existing on-premise system to the cloud. While it often seemed like there were too many moving parts to keep track of, it was a great introduction to cloud architecture and cloud development!"
       },
       {
         "company":"Teranet",
         "title":"Software Engineer Intern",
         "years":"May 2020 - August 2020",
-        "description":"Throughout my internship term at Teranet,  I was able to take on a greater leadership role and was given larger development tasks. For example, I led the end-to-end development of the Registration Tracking feature in Geowarehouse using AngularJS and Java Spring, providing 10+ real estate boards and commercial clients with data on recent property transactions. On the frontend side, I worked on improving the e-store by implementing dynamic product retrieval. Lastly, I performed a platform-wide data refresh using SQL and data analysis techniques, providing 85,000+ Geowarehouse users with accurate neighbourhood demographics data on all properties in Ontario."
+        "description":"Throughout my second internship at Teranet, I was able to take on a greater leadership role and was given larger development tasks. For example, I led the end-to-end development of the Registration Tracking feature in Geowarehouse using AngularJS and Java Spring, providing 10+ real estate boards and commercial clients with data on recent property transactions. On the frontend side, I worked on improving the e-store by implementing dynamic product retrieval. Lastly, I performed a platform-wide data refresh using SQL and data analysis techniques, providing 85,000+ Geowarehouse users with accurate neighbourhood demographics data on all properties in Ontario."
       },
       {
         "company":"Medsoft Group",
         "title":"Mobile Software Developer",
         "years":"April 2020 - Present",
-        "description":"At my time with Medsoft group, I spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their prescription medications. Leveraging the cross-platform functionality of Nativescript, I created an intuitive UI and integrated the app with Azure RESTful APIs for user authentication, data retrieval and persistence. Overall, it was a really interesting experience to see how products are bootstrapped from the ground up, with the hopes that one day this could be presented to doctors and those in the medical industry!"
+        "description":"At my time with Medsoft group, I spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their prescription medications. Leveraging the cross-platform functionality of Nativescript, I created an intuitive UI and integrated the app with Azure RESTful APIs for user authentication, data retrieval and persistence. Overall, it was a really interesting experience to see how products are bootstrapped from the ground up, with the hopes that one day this could be presented to doctors and those in the medical industry."
       }, 
       { 
         "company":"University of Toronto - Daniels Faculty of Architecture ",
         "title":"Software Developer (Research Assistant)",
         "years":"April 2020 - Present",
-        "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I contributed to the development of Flux.Land - a geospatial platform that is being used to assess risk factors and data trends throughout Broward County, Floward. One of my key contributions was redesigning the graduate research showcase page and integrating it with Mapbox tilesets that I created using Mapbox’s Javascript framework. Additionally, I reduced the amount of time required to load the platform by implementing Express.js endpoints to more efficiently serve assets. It was a great experience to develop software and work with faculty in the university!"
+        "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I contributed to the development of Flux.Land - a geospatial platform that is being used to assess risk factors and data trends throughout Broward County, Floward. One of my key contributions was redesigning the graduate research showcase page and integrating it with Mapbox tilesets that I created using Mapbox’s Javascript framework. Additionally, I reduced the amount of time required to load the platform by implementing Express.js endpoints to more efficiently serve assets. Overall, the time I spent working with faculty was incredibly rewarding, and provided an opportunity to work on impactful software that is now being used by city officials and local schools."
       }, 
       {
         "company":"Teranet",
@@ -112,17 +118,18 @@
   "portfolio":{
     "projects": [
       {
+        "title": "SmartScroll", 
+        "category": "A useful tool to improve the browsing experience on long webpages.", 
+        "image": "smartscroll.png", 
+        "url": "https://smartscroll.herokuapp.com/"
+
+      },
+      {
         "title": "Appetite", 
         "category": "Tinder-style mobile app that helps people decide where to eat.", 
         "image": "appetite.png", 
         "url": "https://play.google.com/store/apps/details?id=com.parkjs.appetite&hl=en_CA&gl=US"
 
-      },
-      {
-        "title":"B2Z - Boomer2Zoomer",
-        "category":"A platform to connect the younger generations with great mentors!",
-        "image":"b2z.png",
-        "url":"https://youtu.be/xArKLByn1p4"
       },
       {
         "title":"Dose",
