@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.joshuachua.me",
-    "resumedownload":"https://drive.google.com/file/d/1D9NrezR3WF_AsmhkNLhGwvr8_beXoYeP/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1ATrNSqZ_k01tJtnhVeYbV86cpn8xJ64Q/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -45,17 +45,23 @@
       {
         "school":"University of Toronto",
         "degree":"Bachelor of Science, Computer Science",
-        "graduated":"September 2018 - Present",
+        "graduated":"2018 - 2023 (expected)",
         "description":" Through my first few years, I have taken courses such as Data Structures and Analysis, Algorithm Design, Software Engineering, Operating Systems, Theory of Computation, and Data Science. Some of my favourite memories from undergrad so far have come from group projects, where I've gotten the chance to build new and interesting web apps, mobile apps, and design prototypes!", 
         "extracurriculars": "In addition to my academics, I have taken various leadership roles on campus and enjoy the opportunities to collaborate with others. Whether it be as a UofT Department of Computer Science Ambassador or UofTHacks organizer, working with others in the student community is always a rewarding experience! I also enjoy connecting with others in the form of mentorship, and have gotten a chance to do so as an E-Mentor for incoming Woodsworth College students."
       }
     ],
     "work":[
       {
+        "company":"Affirm",
+        "title":"Software Engineer Intern",
+        "years":"September 2021 - Present",
+        "description":"Merchant APIs."
+      }, 
+      {
         "company":"Pagerduty",
         "title":"Software Engineer Intern",
-        "years":"May 2021 - Present",
-        "description":"More details coming soon."
+        "years":"May 2021 - August 2021",
+        "description":"During my time at PagerDuty, I was exposed to a wide variety of projects and tech stacks. I initially started by restructuring the platform's Visibility Console, allowing for higher click metric coverage and business insights. I then transitioned to working on the PagerDuty iOS app, where I was a key contributor to adding Change Events to mobile, which will improve the triaging experience and minimize mean-time-to-resolution for incident responders. Lastly, I participated in the early development of a new app integration between PagerDuty and Datadog, to be made available in the Datadog Marketplace later this year!"
       },
       {
         "company":"BMO Financial Group",
@@ -69,16 +75,10 @@
         "years":"May 2020 - August 2020",
         "description":"Throughout my second internship at Teranet, I was able to take on a greater leadership role and was given larger development tasks. For example, I led the end-to-end development of the Registration Tracking feature in Geowarehouse using AngularJS and Java Spring, providing 10+ real estate boards and commercial clients with data on recent property transactions. On the frontend side, I worked on improving the e-store by implementing dynamic product retrieval. Lastly, I performed a platform-wide data refresh using SQL and data analysis techniques, providing 85,000+ Geowarehouse users with accurate neighbourhood demographics data on all properties in Ontario."
       },
-      {
-        "company":"Medsoft Group",
-        "title":"Mobile Software Developer",
-        "years":"April 2020 - Present",
-        "description":"At my time with Medsoft group, I spearheaded the exciting development of Dose, a mobile app designed to help patients better keep track of their prescription medications. Leveraging the cross-platform functionality of Nativescript, I created an intuitive UI and integrated the app with Azure RESTful APIs for user authentication, data retrieval and persistence. Overall, it was a really interesting experience to see how products are bootstrapped from the ground up, with the hopes that one day this could be presented to doctors and those in the medical industry."
-      }, 
       { 
         "company":"University of Toronto - Daniels Faculty of Architecture ",
         "title":"Software Developer (Research Assistant)",
-        "years":"April 2020 - Present",
+        "years":"March 2020 - August 2020",
         "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I contributed to the development of Flux.Land - a geospatial platform that is being used to assess risk factors and data trends throughout Broward County, Floward. One of my key contributions was redesigning the graduate research showcase page and integrating it with Mapbox tilesets that I created using Mapbox’s Javascript framework. Additionally, I reduced the amount of time required to load the platform by implementing Express.js endpoints to more efficiently serve assets. Overall, the time I spent working with faculty was incredibly rewarding, and provided an opportunity to work on impactful software that is now being used by city officials and local schools."
       }, 
       {
@@ -128,7 +128,7 @@
         "title": "Appetite", 
         "category": "Tinder-style mobile app that helps people decide where to eat.", 
         "image": "appetite.png", 
-        "url": "https://play.google.com/store/apps/details?id=com.parkjs.appetite&hl=en_CA&gl=US"
+        "url": "https://github.com/jchua24/appetite"
 
       },
       {
