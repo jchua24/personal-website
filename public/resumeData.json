@@ -58,7 +58,7 @@
         "description":"Merchant APIs."
       }, 
       {
-        "company":"Pagerduty",
+        "company":"PagerDuty",
         "title":"Software Engineer Intern",
         "years":"May 2021 - August 2021",
         "description":"During my time at PagerDuty, I was exposed to a wide variety of projects and tech stacks. I initially started by restructuring the platform's Visibility Console, allowing for higher click metric coverage and business insights. I then transitioned to working on the PagerDuty iOS app, where I was a key contributor to adding Change Events to mobile, which will improve the triaging experience and minimize mean-time-to-resolution for incident responders. Lastly, I participated in the early development of a new app integration between PagerDuty and Datadog, to be made available in the Datadog Marketplace later this year!"
