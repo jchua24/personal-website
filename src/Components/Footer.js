@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 
 class Footer extends Component {
+
   render() {
+
+    let year = new Date().getFullYear() 
 
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
@@ -19,8 +22,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Joshua Chua</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; Copyright {year} Joshua Chua</li>
            </ul>
 
         </div>
