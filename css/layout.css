@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #2B2B2B; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #2B2B2B; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -183,55 +183,6 @@ ul#nav li.current a { color: #F06000; }
 
 
 /* ------------------------------------------------------------------ */
-/* c. About Section
-/* ------------------------------------------------------------------ */
-
-#about {
-   background: #2B2B2B;
-   padding-top: 96px;
-   padding-bottom: 66px;
-   overflow: hidden;
-}
-
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
-
-#about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
-   margin-bottom: 12px;
-}
-#about p {
-   line-height: 30px;
-   color: #7A7A7A;
-}
-#about .profile-pic {
-   position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
-}
-#about .contact-details { width: 41.66667%; }
-#about .download {
-   width: 58.33333%;
-   padding-top: 6px;
-}
-#about .main-col { padding-right: 5%; }
-#about .download .button {
-   margin-top: 6px;
-   background: #444;
-}
-#about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
-}
-#about .download .button i {
-   margin-right: 15px;
-   font-size: 20px;
-}
-
-
-/* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
@@ -242,7 +193,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #2B2B2B; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -266,20 +217,68 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+#resume .education-info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#resume .education-info span {
    margin-right: 5px;
    margin-left: 5px;
 }
+
+#resume .work-info {
+   font: 16px/24px 'opensans-regular', serif;
+   color: #6E7881;
+   margin-bottom: 40px;
+   margin-top: 9px;
+}
+#resume .work-info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+
+#resume .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+
+#resume .download-info {
+
+}
+
+
+#resume .download .button {
+   margin-top: 6px;
+   /* margin-left: calc(39%);  */
+   background: #444;
+   color: #fff;
+}
+
+#resume .download .button:hover {
+   color: #525252;
+}
+#resume .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
+#resume .link {
+   text-decoration: underline;
+}
+
+#resume .link:hover {
+   text-decoration: none;
+}
+
+
+
 
 /*----------------------------------------------*/
 /*	Skill Bars
@@ -801,7 +800,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #2B2B2B; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -862,7 +861,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #2B2B2B;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -881,7 +880,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #2B2B2B;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -893,7 +892,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #2B2B2B; }
 
 #message-warning i,
 #message-success i {

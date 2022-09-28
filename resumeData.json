@@ -2,7 +2,7 @@
   "main": {
     "name":"Joshua Chua",
     "occupation":"Software Engineer",
-    "description":"As a third year student at the University of Toronto, I am looking for ways to develop impactful software and power the next generation through technology.",
+    "description":"Currently finishing my last semester of undergrad at the University of Toronto. Interested in building new things and innovative products.",
     "image":"profilepic-new.jpg",
     "bio":"I made this website for you to get to know me better, so feel free to browse my work experiences and projects. If you would like discuss about anything you see on this page, my contact details are listed below - I'd love to connect!",
     "contactmessage": "Want to get in contact with me? Shoot me a message below!",
@@ -15,7 +15,6 @@
       "zip": ""
     },
     "website": "http://www.joshuachua.me",
-    "resumedownload":"https://drive.google.com/file/d/1ATrNSqZ_k01tJtnhVeYbV86cpn8xJ64Q/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -40,127 +39,63 @@
     ]
   },
   "resume":{
-    "skillmessage":"As someone who enjoys working on projects with others, I recognize the importance of having both technical ability and interpersonal skills. Below is a summary of a few key skills that make me suitable to contribute on any team: ",
     "education":[
       {
         "school":"University of Toronto",
-        "degree":"Bachelor of Science, Computer Science",
-        "graduated":"2018 - 2023 (expected)",
-        "description":" Through my first few years, I have taken courses such as Data Structures and Analysis, Algorithm Design, Software Engineering, Operating Systems, Theory of Computation, and Data Science. Some of my favourite memories from undergrad so far have come from group projects, where I've gotten the chance to build new and interesting web apps, mobile apps, and design prototypes!", 
-        "extracurriculars": "In addition to my academics, I have taken various leadership roles on campus and enjoy the opportunities to collaborate with others. Whether it be as a UofT Department of Computer Science Ambassador or UofTHacks organizer, working with others in the student community is always a rewarding experience! I also enjoy connecting with others in the form of mentorship, and have gotten a chance to do so as an E-Mentor for incoming Woodsworth College students."
+        "degree":"HBSc, Computer Science",
+        "graduated":"2018 - 2022"
       }
     ],
     "work":[
       {
+        "company":"Amazon",
+        "title":"Software Engineer Intern",
+        "location":"Austin", 
+        "link":"https://www.amazon.science/tag/last-mile-delivery"
+      },
+      {
+        "company":"Sanctuary",
+        "title":"Head of Product",
+        "location":"Remote", 
+        "link":"https://sanctuarysneakers.com/"
+      }, 
+      {
         "company":"Affirm",
         "title":"Software Engineer Intern",
-        "years":"September 2021 - Present",
-        "description":"Merchant APIs."
+        "location":"San Francisco", 
+        "link":"https://www.affirm.com/"
       }, 
       {
         "company":"PagerDuty",
         "title":"Software Engineer Intern",
-        "years":"May 2021 - August 2021",
-        "description":"During my time at PagerDuty, I was exposed to a wide variety of projects and tech stacks. I initially started by restructuring the platform's Visibility Console, allowing for higher click metric coverage and business insights. I then transitioned to working on the PagerDuty iOS app, where I was a key contributor to adding Change Events to mobile, which will improve the triaging experience and minimize mean-time-to-resolution for incident responders. Lastly, I participated in the early development of a new app integration between PagerDuty and Datadog, to be made available in the Datadog Marketplace later this year!"
+        "location":"Toronto", 
+        "link":"https://www.pagerduty.com/"
       },
       {
         "company":"BMO Financial Group",
-        "title":"Software Engineer Intern",
-        "years":"September 2020 - April 2021",
-        "description":"At the Bank of Montreal, I had the opportunity to work on two different teams: Operational Excellence and Home Financing Cloud. In Operational Excellence, I leveraged my skills in Python to develop a suite of automation scripts to increase efficiency in tracking BMO server vulnerabilities and login metrics. This greatly reduced the amount of manual effort/activities required by the team, allowing them to focus on more urgent business tasks. As for Home Financing Cloud, I had the opportunity to work in AWS (CodePipeline, DynamoDB, Lambdas, Cloudwatch) to migrate an existing on-premise system to the cloud. While it often seemed like there were too many moving parts to keep track of, it was a great introduction to cloud architecture and cloud development!"
+        "title":"Software Developer Intern",
+        "location":"Toronto", 
+        "link":"https://www.bmo.com/main/about-bmo/"
       },
       {
         "company":"Teranet",
-        "title":"Software Engineer Intern",
-        "years":"May 2020 - August 2020",
-        "description":"Throughout my second internship at Teranet, I was able to take on a greater leadership role and was given larger development tasks. For example, I led the end-to-end development of the Registration Tracking feature in Geowarehouse using AngularJS and Java Spring, providing 10+ real estate boards and commercial clients with data on recent property transactions. On the frontend side, I worked on improving the e-store by implementing dynamic product retrieval. Lastly, I performed a platform-wide data refresh using SQL and data analysis techniques, providing 85,000+ Geowarehouse users with accurate neighbourhood demographics data on all properties in Ontario."
+        "title":"Application Developer Intern",
+        "location":"Toronto", 
+        "link":"https://www.teranet.ca/"
       },
       { 
-        "company":"University of Toronto - Daniels Faculty of Architecture ",
-        "title":"Software Developer (Research Assistant)",
-        "years":"March 2020 - August 2020",
-        "description":"In collaboration with the MIT Urban Risk Lab and the Daniels Faculty of Architecture at UofT, I contributed to the development of Flux.Land - a geospatial platform that is being used to assess risk factors and data trends throughout Broward County, Floward. One of my key contributions was redesigning the graduate research showcase page and integrating it with Mapbox tilesets that I created using Mapbox’s Javascript framework. Additionally, I reduced the amount of time required to load the platform by implementing Express.js endpoints to more efficiently serve assets. Overall, the time I spent working with faculty was incredibly rewarding, and provided an opportunity to work on impactful software that is now being used by city officials and local schools."
+        "company":"University of Toronto",
+        "title":"Software Developer",
+        "location":"Toronto", 
+        "link":"https://broward.flux.land/"
       }, 
       {
         "company":"Teranet",
-        "title":"Software Engineer Intern",
-        "years":"May 2019 - August 2019",
-        "description": "In my first software engineering internship, I got the opportunity to participate in an agile scrum development where I did full-stack development using a wide range of technologies such as AngularJS, Java Spring, SQL, Maven, Docker, and Jenkins. Throughout the term, I developed two new Automated Valuation Model reports that are now available to purchase in the Geowarehouse e-store for 85,000+ users! Additionally, I worked on optimizing the UI of client-facing property pages and expanded the data output of various web services."
+        "title":"Application Developer",
+        "location":"Toronto", 
+        "link":"https://www.teranet.ca/"
       }
-    ],
-    "skills":[
-      {
-        "name":"Backend Development (Node.js, Java Spring, Flask)",
-        "level":"80%"
-      },
-      {
-        "name":"Frontend Development (React, AngularJS, HTML/CSS)",
-        "level":"80%"
-      },
-      {
-        "name":"Databases - (MySQL, MongoDB, DynamoDB)",
-        "level":"75%"
-      },
-      {
-        "name":"AWS Cloud Development",
-        "level":"65%"
-      },
-      {
-        "name":"Communication",
-        "level":"95%"
-      },
-      {
-        "name":"Leadership",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title": "SmartScroll", 
-        "category": "A useful tool to improve the browsing experience on long webpages.", 
-        "image": "smartscroll.png", 
-        "url": "https://smartscroll.herokuapp.com/"
-
-      },
-      {
-        "title": "Appetite", 
-        "category": "Tinder-style mobile app that helps people decide where to eat.", 
-        "image": "appetite.png", 
-        "url": "https://github.com/jchua24/appetite"
-
-      },
-      {
-        "title":"Dose",
-        "category":"An app to help patients correctly log their medication usage.",
-        "image":"dose.png",
-        "url":"https://github.com/jchua24/dose"
-      },
-      {
-        "title":"Fluxland",
-        "category":"Innovative geo-spatial platform to address the risk factors of Broward County.",
-        "image":"fluxland.png",
-        "url":"https://broward.flux.land"
-      }, 
-      {
-        "title":"Announcements App",
-        "category":"A mobile solution to a school's unsatisfactory PA system.",
-        "image":"announcements.png",
-        "url":"https://play.google.com/store/apps/details?id=ca.tssappclub.tssannouncements&hl=en_CA"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Joshua is a professional and reliable developer. He handles his assignments promptly, and delivers them with efficiency. He is an amazing team member, and can be trusted to work independently as well. He has proven to be extremely resourceful and innovative with technical issues, and it’s clear that he is well versed in various front end development frameworks. Joshua maintains high standards for his work and can be observed to be striving for excellence in each of his endeavours. Joshua will be a great asset for any team he joins.",
-        "user":"Isaac Seah, Flux.Land"
-      }, 
-      {
-        "text":"Joshua has been working as a co-op developer in my team, and I really enjoyed working with him. He was a fast learner and demonstrated strong responsibilities with his tasks.  Everyone in the team liked working with Joshua and he earned trust from his team members in a short time.",
-        "user":"Sean Yun, Teranet"
-      }
-    ]
+    ], 
+    "resumedownload":"https://drive.google.com/file/d/1nw9AzEzyGPcyV1wxh0T_KiIcnIJFswgw/view"
   }
 }
