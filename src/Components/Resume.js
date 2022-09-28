@@ -53,7 +53,7 @@ class Resume extends Component {
 
           <div className="nine columns main-col">
             <p className="download-info">
-                <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-download"></i>Resume</a>
             </p>
           </div>
         </div>
